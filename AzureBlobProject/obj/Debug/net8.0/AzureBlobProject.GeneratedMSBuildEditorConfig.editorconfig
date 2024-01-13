@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\RAMYA\source\repos\CodeBase\AzureFundamentals\AzureBlobProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/RAMYA/source/repos/CodeBase/AzureFundamentals/AzureBlobProject/Views/Container/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/RAMYA/source/repos/CodeBase/AzureFundamentals/AzureBlobProject/Views/Container/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
