@@ -7,7 +7,5 @@
 
         Task CreateContainer(string containerName);
         Task DeleteContainer(string containerName);
-
-
     }
 }
